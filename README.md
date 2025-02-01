@@ -1,3 +1,5 @@
+Excellent travail Karen, mais pourquoi pas select le contenu de la table?
+
 # ApplicationDistrib
 Devoir 1 Application Distribuees Karen Khoury 220402
 
