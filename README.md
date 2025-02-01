@@ -2,6 +2,7 @@
 Devoir 1 Application Distribuees Karen Khoury 220402
 
 Proving my identity : C:\Users\User>prompt KarenKhoury$G
+
 Software and version used:
 PostgreSQL	16.6
 Java JDK	java version "18.0.2.1" 2022-08-18
